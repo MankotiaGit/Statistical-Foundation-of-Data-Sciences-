@@ -104,7 +104,6 @@ OBJECTIVES:
 
  FILES:
  
- SFDS PRACTICAL 5.ipynb - Colab.pdf: Contains the complete practical, including Python code, outputs, calculations and explanations.
  
  TeachingRatings.csv: Dataset loaded directly from the online CSV source.
 
