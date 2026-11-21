@@ -170,7 +170,6 @@ OBJECTIVES:
 
  FILES USED:
  
- SFDS PRACTICAL 4.ipynb - Colab.pdf – Contains the Python code, operations, outputs, and graphs performed in this practical.
  
  TeachingRatings.csv – Dataset loaded directly from the online AER repository.
 
