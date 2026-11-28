@@ -109,20 +109,20 @@ Follow-up questions:
 1. Interpret the odds ratios for one extra study hour and for one extra percent of
 attendance.
 
-=> * The odds ratio for study hours is approximately 1.3063.
+* The odds ratio for study hours is approximately 1.3063.
 
-   * This means that for every one-hour increase in weekly study time, the odds of passing increase by approximately 30.63%, assuming attendance remains constant.
+* This means that for every one-hour increase in weekly study time, the odds of passing increase by approximately 30.63%, assuming attendance remains constant.
 
-   * The odds ratio for attendance is approximately 1.0823.
+* The odds ratio for attendance is approximately 1.0823.
 
-   * This means that for every one-percent increase in attendance, the odds of passing increase by approximately 8.23%, assuming study hours remain constant.
+* This means that for every one-percent increase in attendance, the odds of passing increase by approximately 8.23%, assuming study hours remain constant.
 
-   * Both odds ratios are greater than 1, indicating that study hours and attendance have a positive relationship with the odds of passing the examination.
+* Both odds ratios are greater than 1, indicating that study hours and attendance have a positive relationship with the odds of passing the examination.
 
 2. Compare the default 0.5 threshold with your chosen threshold. Which would you use
 for an early-warning system, and what is the cost of the extra false alarms?
 
-=> * At the default threshold of 0.5:
+  * At the default threshold of 0.5:
 
    Actual Fail (0) and Predicted Fail (0) is 55 
    Actual Fail (0) and Predicted Pass (1) is 17
